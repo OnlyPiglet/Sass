@@ -1,0 +1,8 @@
+#main {
+  background-color: aliceblue;
+}
+#main .subclass {
+  border: 1rem aquamarine solid;
+}
+
+/*# sourceMappingURL=extendFatherSelector.css.map */

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,KAAK;EAEH,gBAAgB,EAAE,SAAS;;AAE3B,eAAS;EAEL,MAAM,EAAE,qBAAqB",
+"sources": ["../../Sass%E5%9F%BA%E4%BA%8ECSS%E7%9A%84%E5%B5%8C%E5%A5%97%E6%89%A9%E5%B1%95/css%E9%80%89%E6%8B%A9%E5%99%A8%E5%B5%8C%E5%A5%97/extendFatherSelector.scss"],
+"names": [],
+"file": "extendFatherSelector.css"
+}

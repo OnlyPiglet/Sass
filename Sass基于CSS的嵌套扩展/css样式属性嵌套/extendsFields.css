@@ -1,0 +1,10 @@
+@charset "UTF-8";
+#main {
+  font-family: 新宋体;
+  font-size: 0.2rem;
+  background-color: aquamarine;
+  background-repeat: no-repeat;
+  background-image: url("http://baidu.com");
+}
+
+/*# sourceMappingURL=extendsFields.css.map */

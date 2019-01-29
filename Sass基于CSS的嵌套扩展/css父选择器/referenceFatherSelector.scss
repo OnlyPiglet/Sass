@@ -1,0 +1,10 @@
+@charset "UTF-8";
+#main{
+
+  background-color: aquamarine;
+
+  &:hover {
+    background-color: coral;
+  }
+
+}

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";AACA,KAAK;EAID,WAAM,EAAE,GAAG;EACX,SAAI,EAAE,MAAM;EAMZ,gBAAK,EAAE,UAAU;EACjB,iBAAM,EAAE,SAAS;EACjB,gBAAK,EAAE,uBAAuB",
+"sources": ["../../Sass%E5%9F%BA%E4%BA%8ECSS%E7%9A%84%E5%B5%8C%E5%A5%97%E6%89%A9%E5%B1%95/css%E6%A0%B7%E5%BC%8F%E5%B1%9E%E6%80%A7%E5%B5%8C%E5%A5%97/extendsFields.scss"],
+"names": [],
+"file": "extendsFields.css"
+}

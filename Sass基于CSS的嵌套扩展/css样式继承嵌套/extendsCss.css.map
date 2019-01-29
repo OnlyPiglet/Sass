@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";AAEA,gBAAK;EAEH,WAAW,EAAE,EAAE;;;AAGjB,wBAAQ;EAEN,gBAAgB,EAAE,KAAK;;;AAIzB,UAAW;EAGT,KAAK,EAAE,GAAG",
+"sources": ["../../Sass%E5%9F%BA%E4%BA%8ECSS%E7%9A%84%E5%B5%8C%E5%A5%97%E6%89%A9%E5%B1%95/css%E6%A0%B7%E5%BC%8F%E7%BB%A7%E6%89%BF%E5%B5%8C%E5%A5%97/extendsCss.scss"],
+"names": [],
+"file": "extendsCss.css"
+}

@@ -1,0 +1,14 @@
+@charset "UTF-8";
+.pop, .alert-pop {
+  font-family: 仿宋;
+}
+
+.pop .bg, .alert-pop .bg {
+  background-color: azure;
+}
+
+.alert-pop {
+  color: red;
+}
+
+/*# sourceMappingURL=extendsCss.css.map */
