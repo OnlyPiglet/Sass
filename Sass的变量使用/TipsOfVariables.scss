@@ -1,0 +1,109 @@
+@charset "UTF-8";
+
+/*字符串*/
+$font-family-one:"宋体";
+
+$font-family-two:'黑体';
+
+$font-family-three: 微软雅黑;
+
+.one{
+
+   font:{
+     family: $font-family-one;
+   }
+
+ }
+
+.two{
+
+  font:{
+    family: $font-family-two;
+  }
+
+}
+
+.three{
+
+  font:{
+    family: $font-family-three;
+  }
+
+}
+
+.four{
+
+   font:{
+     family: #{$font-family-one};
+   }
+
+ }
+
+/*数字*/
+$font-size:1.2rem;
+
+.number{
+
+  font-size: $font-size;
+}
+
+/*数组*/
+
+$padding : 0 0 0 0;
+
+$padding-two : (0 0),(0 0);
+
+$padding-three: 0 ,0 ,0 ,0;
+
+$padding-four:0,;
+
+$padding-five:(0,0) (0,0);
+
+
+.padding{
+
+  padding:$padding;
+}
+
+.padding-two{
+  padding:$padding-two;
+}
+
+.padding-two{
+  padding:$padding-two;
+}
+
+.padding-three{
+  padding:$padding-three;
+}
+
+.padding-four{
+  padding:$padding-four;
+}
+.padding-five{
+  padding:$padding-five;
+}
+
+/*布尔型*/
+$open:true;
+$close:false;
+
+
+/*空值*/
+$ifdisable:null;
+
+.input{
+    hidden:$ifdisable;
+}
+
+/*Map*/
+
+$settings:(mask:1000,base:2000);
+
+.mask{
+  z-index: map_get($settings,mask);
+}
+
+
+
+

@@ -1,0 +1,56 @@
+@charset "UTF-8";
+/*字符串*/
+.one {
+  font-family: "宋体";
+}
+
+.two {
+  font-family: "黑体";
+}
+
+.three {
+  font-family: 微软雅黑;
+}
+
+.four {
+  font-family: 宋体;
+}
+
+/*数字*/
+.number {
+  font-size: 1.2rem;
+}
+
+/*数组*/
+.padding {
+  padding: 0 0 0 0;
+}
+
+.padding-two {
+  padding: 0 0, 0 0;
+}
+
+.padding-two {
+  padding: 0 0, 0 0;
+}
+
+.padding-three {
+  padding: 0, 0, 0, 0;
+}
+
+.padding-four {
+  padding: 0;
+}
+
+.padding-five {
+  padding: 0, 0 0, 0;
+}
+
+/*布尔型*/
+/*空值*/
+/*Map*/
+.mask {
+  z-index: 1000;
+}
+
+/*# sourceMappingURL=TipsOfVariables.css.map */

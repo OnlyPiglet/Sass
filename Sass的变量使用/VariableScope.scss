@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+/*全局变量*/
+$basecolor : #FF0000;
+
+
+.globalclass{
+
+   $fontsize : 1.2rem !global;
+
+}
+
+.main{
+
+  background-color: $basecolor;
+  font-size: $fontsize;
+}
+
+/*局部变量*/
+
+.section-one{
+
+   $backcolor : blue;
+
+    background-color: $backcolor;
+
+}
+
+.section-two{
+
+  $backcolor : red;
+
+  background-color: $backcolor;
+
+}
+
