@@ -154,6 +154,11 @@ $close:false;
 ```scss
 //空值
 $ifdisable:null;
+
+.input{
+    hidden:$ifdisable;
+}
+
 ```
 编译后什么都没有
 
