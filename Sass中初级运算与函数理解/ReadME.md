@@ -57,7 +57,7 @@ background-color: #ff3467;
 //Error: Invalid null operation: \"null plus null
 ```
 #总结
-在文章最后，作者总结了这边文章中的要点，并整理为一张思维导读方便各位读者迅速理解文章，还有今天是大年三十，祝福大家新年快乐，阖家欢乐😉，感谢读者的支持，作者一定会坚持持续为大家带来高质量的文章
+在文章最后，作者总结了这边文章中的要点，并整理为一张思维导读方便各位读者迅速理解文章，文章中代码可以点击该[链接](https://github.com/OnlyPiglet/Sass/tree/master/Sass%E4%B8%AD%E5%88%9D%E7%BA%A7%E8%BF%90%E7%AE%97%E4%B8%8E%E5%87%BD%E6%95%B0%E7%90%86%E8%A7%A30)查看。今天是大年三十，祝福大家新年快乐，阖家欢乐😉，感谢读者的支持，作者一定会坚持持续为大家带来高质量的文章。
 ![Saas基本变量类型运算.png](https://upload-images.jianshu.io/upload_images/13419832-259d0b554778c987.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
