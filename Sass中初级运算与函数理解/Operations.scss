@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+$arr : "0";
+$arr_1 : 0;
+
+
+.main{
+
+  checked:$arr == $arr_1;
+
+}
+
+.calculator{
+
+  $a : 2px;
+  $b : 2;
+  $c : 3rem;
+  $d : 'a';
+  $e : 'd';
+  $f : null;
+  $color1 : #112233;
+  $color2 : #ee4566;
+  max-height: $a + $d;
+  max-width: $a * $b;
+  data-name: $a + $d ;
+
+  //data-ment: $e * $d;
+
+  //scroll : $f+ $f;
+
+  //background-color: $color1 * $e;
+
+
+}
+
+

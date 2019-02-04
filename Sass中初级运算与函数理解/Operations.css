@@ -1,0 +1,11 @@
+.main {
+  checked: false;
+}
+
+.calculator {
+  max-height: "2pxa";
+  max-width: 4px;
+  data-name: "2pxa";
+}
+
+/*# sourceMappingURL=Operations.css.map */
