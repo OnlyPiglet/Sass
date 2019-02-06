@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+@function getWidth($w) {
+
+  @return $w * 2;
+}
+
+$list : 1 2;
+$map : ("a":1,"b":2 , null:null);
+.main{
+
+  $a : (a b c d);
+
+  $b : (1 2 3 4);
+
+  name : join($a,$b);
+
+  nam1 : nth($map,3);
+
+  name2 : index($map,"b" 2);
+
+  name3 : list-separator($list);
+  max-width: #{getWidth(20)}px;
+
+}
