@@ -25,6 +25,8 @@ $arr_1 : 0;
   $color3 : white;
   $color4 : rgb(255,255,255);
   $color5 : #fff;
+  $false : false;
+  $true : true;
   max-height: $a + $d;
   max-width: $a * $b;
   data-name: $a + $d ;
@@ -36,6 +38,10 @@ $arr_1 : 0;
   checked: $color3 == $color5;
   checked : not($h);
   checked : not(false);
+
+  name : $false / $true;
+
+
   //data-ment: $e * $d;
 
   //scroll : $f+ $f;

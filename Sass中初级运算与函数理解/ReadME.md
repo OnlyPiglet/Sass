@@ -57,6 +57,9 @@ background-color: #ff3467;
 ```
 * 16进制与颜色类型和没有单位的数字是可以加减乘除，其他的基本类型都会报错。
 
+###布尔型
+除了* 运算会报错外之外其他都会当成字符串"false"与"true"处理。
+
 ###空值
 基本所有其他类型和null进行操作都报错，连null与null操作也是如此，各位读者也可以自己试试看的。
 ```scss
@@ -76,8 +79,4 @@ null空值被当做false处理。
 圆括号与数学中的一样可以改变运算顺序。
 #总结
 在文章最后，作者总结了这边文章中的要点，并整理为一张思维导读方便各位读者迅速理解文章，文章中代码可以点击该[链接](https://github.com/OnlyPiglet/Sass/tree/master/Sass%E4%B8%AD%E5%88%9D%E7%BA%A7%E8%BF%90%E7%AE%97%E4%B8%8E%E5%87%BD%E6%95%B0%E7%90%86%E8%A7%A30)查看。
-![Saas基本变量类型运算.png](https://upload-images.jianshu.io/upload_images/13419832-259d0b554778c987.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-
-
+![Saas基本变量类型运算.png](https://upload-images.jianshu.io/upload_images/13419832-05ef29c124965343.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
