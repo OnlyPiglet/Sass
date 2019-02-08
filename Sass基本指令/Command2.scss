@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+
+$object :("mobile":465,"ipad":866,"pc":1080);
+
+@debug 10em + 24em;
+
+@function test(){
+  @debug $object;
+
+}
+
+@for $i from 1 to 3 {
+  .item-#{$i} { width: 2em * $i; }
+  @debug 22+11;
+}
+
+
+@mixin sexy-border($color, $width) {
+  border: {
+    color: $color;
+    width: $width;
+    style: dashed;
+  }
+}
+p { @include sexy-border(blue, 1in); }
+
+
+.error {
+  border: 1px #f00;
+  background-color: #fdd;
+}
+.error .intrusion {
+  background-image: url("/image/hacked.png");
+}
+.seriousError {
+  @extend .error;
+  border-width: 3px;
+}
